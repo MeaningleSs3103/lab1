@@ -1,0 +1,5 @@
+x=input("First name: ")
+y=input("Last name: ")
+z=input ("Phone number: ")
+print("Your registerd name is",x,y)
+print("Your phone number is",z)
